@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="" />
+    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="Criando o repositório do Back-end java pela EBAC">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EBAC-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EBAC-Java.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +30,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/pedro/IdeaProjects/EBAC-Java/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/pedro/IdeaProjects/EBAC-Java/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +43,31 @@
       <option name="presentableId" value="Default" />
       <updated>1709856994002</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criando o repositório do Back-end java pela EBAC">
+      <option name="closed" value="true" />
+      <created>1709857193548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709857193548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando o repositório do Back-end java pela EBAC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando o repositório do Back-end java pela EBAC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
