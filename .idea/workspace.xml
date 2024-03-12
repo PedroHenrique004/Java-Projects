@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="Criando o repositório do Back-end java pela EBAC">
-      <change afterPath="$PROJECT_DIR$/Estudos/Estudos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="Criando a pasta estudos do curso onde guardarei anotações apenas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709925743582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criando a pasta estudos do curso onde guardarei anotações apenas">
+      <option name="closed" value="true" />
+      <created>1709931579916</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709931579916</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criando a pasta estudos do curso onde guardarei anotações apenas">
+      <option name="closed" value="true" />
+      <created>1709931614763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709931614763</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando o repositório do Back-end java pela EBAC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando o repositório do Back-end java pela EBAC" />
+    <MESSAGE value="Criando a pasta estudos do curso onde guardarei anotações apenas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando a pasta estudos do curso onde guardarei anotações apenas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
