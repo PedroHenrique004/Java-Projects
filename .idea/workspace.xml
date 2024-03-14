@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="Testando o repositório">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estudos/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estudos/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estudos/ItemVenda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estudos/PrimeiraClasse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estudos/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ExercicioM7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="Projeto 1 - versão 1 (sem estilização)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,17 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "21",
-    "onboarding.tips.debug.path": "C:/Users/pedro/IdeaProjects/EBAC-Java/Projeto_1/src/Main.java",
-    "settings.editor.selected.configurable": "IntelliLang.Advanced"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pedro/IdeaProjects/EBAC-Java/Projeto_1/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;IntelliLang.Advanced&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="P1_Cadastro_de_Clientes.domain" />
@@ -135,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710267516525</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Projeto 1 - versão 1 (sem estilização)">
+      <option name="closed" value="true" />
+      <created>1710376978065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710376978065</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +151,8 @@
     <MESSAGE value="Criando o repositório do Back-end java pela EBAC" />
     <MESSAGE value="Criando a pasta estudos do curso onde guardarei anotações apenas" />
     <MESSAGE value="Testando o repositório" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testando o repositório" />
+    <MESSAGE value="Projeto 1 - versão 1 (sem estilização)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto 1 - versão 1 (sem estilização)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
