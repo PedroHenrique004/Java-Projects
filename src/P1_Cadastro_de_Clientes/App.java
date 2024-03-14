@@ -12,7 +12,7 @@ public class App {
     private static IClienteDAO iClienteDAO;
 
     public static void main(String args[]) {
-        iClienteDAO = new ClienteSetDAO();
+        iClienteDAO = new ClienteMapDAO();
 
         String opcao;
 

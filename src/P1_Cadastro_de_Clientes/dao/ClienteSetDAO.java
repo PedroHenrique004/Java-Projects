@@ -26,10 +26,10 @@ public class ClienteSetDAO implements IClienteDAO{
                 clienteEncontrado = cliente;
                 break;
             }
+        }
 
-            if (clienteEncontrado != null){
-                this.set.remove(clienteEncontrado);
-            }
+        if (clienteEncontrado != null){
+            this.set.remove(clienteEncontrado);
         }
     }
 
