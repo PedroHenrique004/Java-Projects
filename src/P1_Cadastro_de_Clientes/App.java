@@ -1,7 +1,10 @@
 package P1_Cadastro_de_Clientes;
 
 import P1_Cadastro_de_Clientes.dao.ClienteMapDAO;
-import P1_Cadastro_de_Clientes.dao.ClienteSetDAO;
+/**
+ * O código pode receber Interfaces do tipo Map ou Set, amobos funcionam igualmente
+ */
+// import P1_Cadastro_de_Clientes.dao.ClienteSetDAO;
 import P1_Cadastro_de_Clientes.dao.IClienteDAO;
 import P1_Cadastro_de_Clientes.domain.Cliente;
 
