@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="Alterando o metodo de excluir da implementação com Set que já estava corrigido na Map">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercícios/Modulo_15/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercícios/Modulo_15/CarFactory.java" afterDir="false" />
-    </list>
+    <list default="true" id="0dba6fb6-94bf-4cbe-9e59-b5fa12d896bc" name="Changes" comment="Exercicío modulo 15" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -160,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710377555790</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercicío modulo 15">
+      <option name="closed" value="true" />
+      <created>1720544966822</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720544966823</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +186,8 @@
     <MESSAGE value="Projeto 1 - versão 1 (sem estilização)" />
     <MESSAGE value="Excluindo pasta irrelevante do repositorio" />
     <MESSAGE value="Alterando o metodo de excluir da implementação com Set que já estava corrigido na Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterando o metodo de excluir da implementação com Set que já estava corrigido na Map" />
+    <MESSAGE value="Exercicío modulo 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicío modulo 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
